@@ -118,7 +118,7 @@ const translations = {
       title: 'اختيارات اليوم',
       subtitle: 'بعض من المفضّلات لدينا خلف البار.',
       items: [
-        { image: 'flatWhite', alt: 'فلات وايت مع فن على سطح القهوة', title: 'فلات وايت', description: <>ناعم ومتوازن.<br />حليب مبخّر مع إسبريسو غني.</>, price: '١٦ ر.س' },
+        { image: 'flatWhite', alt: 'فلات وايت مع فن على سطح القهوة', title: 'فلات وايت', description: <>ناعم ومتوازن.<br /></>, price: '١٦ ر.س' },
         { image: 'croissant', alt: 'كرواسون بالفستق ذهبي اللون على طبق', title: <>كرواسون<br className="desktop-break" /> بالفستق</>, description: <>هشّ، زبدي، ومحشو<br />بكريمة الفستق.</>, price: '١٨ ر.س' },
         { image: 'icedLatte', alt: 'لاتيه إسباني مثلج في كوب زجاجي', title: <>لاتيه إسباني<br className="desktop-break" /> مثلج</>, description: <>مشروب حلو وكريمي<br />لأيامك الحارة.</>, price: '٢٠ ر.س' },
       ],
